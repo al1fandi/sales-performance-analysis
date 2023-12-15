@@ -78,6 +78,7 @@ Sales in September 2010 generated the highest revenue of 210 million, an increas
 
 - Question 5. How is the daily performance of dqlab sales?
 ![Daily-Revenue-Trend](https://github.com/al1fandi/sales-performance-analysis/blob/main/Daily%20Revenue%20Trend.png?raw=true)
+
 Sales on Saturday generated the highest revenue of 993 million. In addition, revenue was also high on Monday, reaching 969 million. Revenue peaked on Monday at the beginning of the weekday (15.08%) and on Saturday at the beginning of the weekend (15.45%).
 
 - Question 6. Which product sub-categories are frequently returned and cancelled by customers?
