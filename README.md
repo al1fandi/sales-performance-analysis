@@ -49,19 +49,22 @@ After importing the data, I needed to clean it up to make the data analysis proc
 
 ## Exploration
 - Initial Exploration
+
 ![Correlation-Heatmap](https://github.com/al1fandi/sales-performance-analysis/blob/main/Correlation%20Heatmap.jpg?raw=true)
 Based on these results, there are some columns that have a strong positive correlation:
 	- discount_value and sales (0.78): Indicates a strong positive correlation. When discount_value increases, sales also tends to increase.
 	- discount_value and revenue (0.75): Indicates a strong positive correlation. When discount_value increases, revenue also tends to increase.
 
 - Question 1. Which product categories and product sub-categories are most ordered?
+
 ![Product-Categories-Most-Ordered](https://github.com/al1fandi/sales-performance-analysis/blob/main/Product%20Categories%20Most%20Ordered.png?raw=true)
 'Office Supplies' is the product category with the highest order of 2911 times or about 60% of the total product categories ordered.
   
 ![Product-Sub-Categories-Most-Ordered](https://github.com/al1fandi/sales-performance-analysis/blob/main/Product%20Sub-Categories%20Most%20Ordered.png?raw=true)
 'Paper' is the product sub-category with the highest order of 736 times or about 15% of the total product sub-categories ordered.
 
-- Question 2. Which product categories and product sub-categories are most income? 
+- Question 2. Which product categories and product sub-categories are most income?
+
 ![Product-Categories-Most-Income](https://github.com/al1fandi/sales-performance-analysis/blob/main/Product%20Categories%20Most%20Income.png?raw=true)
 'Office Supplies' is the product category with the highest revenue of over 2.4 billion, or approximately 38% of the total product category revenue. Apart from being highly sold, the 'Office Supplies' product category also generates high revenue.
 
@@ -69,19 +72,22 @@ Based on these results, there are some columns that have a strong positive corre
 'Telephones and Communication' is the product sub-category with the highest revenue of 978 million, or about 15% of the total revenue of all product sub-categories. However, the 'Telephones and Communication' product sub-category is not the highest-order item. This can happen because the price of the 'Telephones and Communication' is quite large when compared to the 'Paper'.
  
 - Question 3. How is the quarterly performace of dqlab sales?
+
 ![Quarterly-Revenue-Trend](https://github.com/al1fandi/sales-performance-analysis/blob/main/Quarterly%20Revenue%20Trend.png?raw=true)
 Revenue tends to peak in the 2nd (April–June) or 3rd (July–September) quarter. The highest revenue occurred in the 2nd quarter of 2012, with 480 million, or approximately 28% of total revenue during 2012. The lowest revenue occurred in the first quarter of 2010.
 
 - Question 4. How is the monthly performance of dqlab sales?
+
 ![Monthly-Revenue-Trend](https://github.com/al1fandi/sales-performance-analysis/blob/main/Monthly%20Revenue%20Trend.png?raw=true)
 Sales in September 2010 generated the highest revenue of 210 million, an increase of about 65% from the previous month (August 2010). Revenues also peaked thereafter in April and September 2012, generating 199 million and 195 million, respectively.
 
 - Question 5. How is the daily performance of dqlab sales?
-![Daily-Revenue-Trend](https://github.com/al1fandi/sales-performance-analysis/blob/main/Daily%20Revenue%20Trend.png?raw=true)
 
+![Daily-Revenue-Trend](https://github.com/al1fandi/sales-performance-analysis/blob/main/Daily%20Revenue%20Trend.png?raw=true)
 Sales on Saturday generated the highest revenue of 993 million. In addition, revenue was also high on Monday, reaching 969 million. Revenue peaked on Monday at the beginning of the weekday (15.08%) and on Saturday at the beginning of the weekend (15.45%).
 
 - Question 6. Which product sub-categories are frequently returned and cancelled by customers?
+
 ![Product-Sub-Categories-Most-Returned-and-Cancelled](https://github.com/al1fandi/sales-performance-analysis/blob/main/Product%20Sub-Categories%20Most%20Returned%20and%20Cancelled.png?raw=true)
 'Paper' is the product sub-category with the highest number of canceled and returned orders, with 68 times, or about 13.73% of the total unsuccessful orders. Returned or canceled orders can be caused by several factors, such as shipping duration, shipping quality, and item quality.
 
