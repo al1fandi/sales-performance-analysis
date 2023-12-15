@@ -55,10 +55,12 @@ Based on these results, there are some columns that have a strong positive corre
 	- discount_value and revenue (0.75): Indicates a strong positive correlation. When discount_value increases, revenue also tends to increase.
 
 - Question 1. Which product categories and product sub-categories are most ordered?
-[GAMBAR]
-[INTERPRETASI]
-[GAMBAR]
-[INTERPRETASI]  
+![Product-Categories-Most-Ordered](https://github.com/al1fandi/sales-performance-analysis/blob/main/Product%20Categories%20Most%20Ordered.png?raw=true)
+'Office Supplies' is the product category with the highest order of 2911 times or about 60% of the total product categories ordered.
+  
+![Product-Sub-Categories-Most-Ordered](https://github.com/al1fandi/sales-performance-analysis/blob/main/Product%20Sub-Categories%20Most%20Ordered.png?raw=true)
+'Paper' is the product sub-category with the highest order of 736 times or about 15% of the total product sub-categories ordered.
+
 - Question 2. Which product categories and product sub-categories are most income? 
 [GAMBAR]
 [INTERPRETASI]
