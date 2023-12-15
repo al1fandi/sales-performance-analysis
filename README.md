@@ -53,8 +53,8 @@ After importing the data, I needed to clean it up to make the data analysis proc
 ![Correlation-Heatmap](https://github.com/al1fandi/sales-performance-analysis/blob/main/Correlation%20Heatmap.jpg?raw=true)
 
 Based on these results, there are some columns that have a strong positive correlation:
-	- discount_value and sales (0.78): Indicates a strong positive correlation. When discount_value increases, sales also tends to increase.
-	- discount_value and revenue (0.75): Indicates a strong positive correlation. When discount_value increases, revenue also tends to increase.
+	* discount_value and sales (0.78): Indicates a strong positive correlation. When discount_value increases, sales also tends to increase.
+	* discount_value and revenue (0.75): Indicates a strong positive correlation. When discount_value increases, revenue also tends to increase.
 
 - Question 1. Which product categories and product sub-categories are most ordered?
 
