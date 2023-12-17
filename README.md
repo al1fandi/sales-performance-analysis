@@ -96,8 +96,8 @@ Sales on Saturday generated the highest revenue of 993 million. In addition, rev
 Based on the exploration and analysis of DQLab Store's sales performance, we can conclude several things, which are:
 - The most orders are dominated by the 'Office Supplies' category (60%) and the 'Paper' sub-category (15%).
 - The highest revenue was dominated by the 'Office Supplies' category (38%) and the 'Telephones and Communication' sub-category (15%).
-- The highest revenue occurred in Q2-2012 (28%; ~over 2012).
-- The highest revenue occurred in September 2010 (~65% increase).
+- The highest revenue occurred in Q2-2012 (28%; over 2012).
+- The highest revenue occurred in September 2010 (increase 65%).
 - Revenue peaked on Mondays (15.08%) and Saturdays (15.45%).
 - The product with the highest number of cancellations and returns was the 'Paper' sub-category (13.73%).
 
